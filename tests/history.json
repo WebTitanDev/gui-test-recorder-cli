@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1753927438951",
+    "url": "https://translate.google.com/",
+    "device": "pc",
+    "createdAt": "2025-07-31T02:05:05.869Z",
+    "feedback": "this good app",
+    "scriptPath": "tests/sessions/1753927438951/script.spec.ts",
+    "tracePath": "tests/sessions/1753927438951/trace.zip"
+  }
+]

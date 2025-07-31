@@ -1,0 +1,27 @@
+{
+  "name": "gui-test-recorder-cli",
+  "version": "1.0.0",
+  "description": "This task is to create a minimal functional prototype of the planned CLI tool for browser-based test recording and playback.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebTitanDev/gui-test-recorder-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebTitanDev/gui-test-recorder-cli/issues"
+  },
+  "homepage": "https://github.com/WebTitanDev/gui-test-recorder-cli#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "playwright": "^1.54.1"
+  }
+}

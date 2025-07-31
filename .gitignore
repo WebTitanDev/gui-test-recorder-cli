@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Deno-specific
+deno.lock
+
+# Environment variables
+.env
+
+# TypeScript build output (if compiled)
+dist/
+*.tsbuildinfo
+
+# VSCode settings
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Test session data
+tests/sessions/*/trace.zip
+tests/sessions/*/script.spec.ts
+
+# Optional: ignore Playwright output
+playwright-report/
